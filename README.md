@@ -20,7 +20,6 @@ mempelajari segala ilmu dalam bidang teknologi.
 
 * 🏫 **School at** ***"SMP SAINS MIFTAHULHUDA"***
 * 🕒 *Released on* **2020**
-* ☪️ ***Islam***
 * 🏠 ***Cah Nganjuk***
 
 ## Another
