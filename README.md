@@ -59,8 +59,8 @@
 [header-url]: Header.png
 [header-link]: https://github.com/Quitsant/myStyle.git
 
-[version-image]: https://img.shields.io/badge/Version-1.0.0-brightgreen?style=for-the-badge&logo=appveyor
-[version-url]: https://img.shields.io/badge/version-1.0.0-green
+[version-image]: https://img.shields.io/badge/Version-2025-brightgreen?style=for-the-badge&logo=appveyor
+[version-url]: https://img.shields.io/badge/version-2025-green
 
 [Frontend-image]: https://img.shields.io/badge/Frontend-Html-orange?style=for-the-badge
 [Frontend-url]: https://img.shields.io/badge/Frontend-Html-blue?style=for-the-badge
