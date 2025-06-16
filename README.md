@@ -9,14 +9,14 @@
 [![Miner2][Miner-image2]][Miner-url2]
 
 > *"Yo Ndak Tau Kok Tanya Saya"*  
-> Mempelajari segala ilmu dalam bidang teknologi.
+> Suka makan ayam goyeng
 
 ---
 
 # 🖐️ Halo, Perkenalkan Saya
 ## 🎮 **Luthfi Nazheefa Naafi Lil Ifta Ramadhan** 💻
 
-> Seorang pelajar yang suka mencari informasi teknologi, dari dunia **Web Development**, **Cybersecurity**, sampai **Server Admin**.  
+> Seorang pelajar yang suka mencari informasi teknologi, tentang **Web Development**, **Cybersecurity**, dan **Server Admin**.  
 > Sedang aktif belajar dan membangun portofolio dengan terus mengembangkan skill - skill untuk menjadi FullStack Dev
 
 ---
@@ -24,7 +24,7 @@
 ## 🏫 Tentang Saya
 
 - 📍 Asal: **Nganjuk, Indonesia**
-- 🏫 Sekolah: **SMP Sains Miftahul Huda**
+- 🏫 Umur: **15 Tahun**
 - 🎓 Bergabung: **2020**
 
 ---
