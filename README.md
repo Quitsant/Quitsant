@@ -40,7 +40,7 @@
 
 ## 💻 Perangkat yang Digunakan
 
-*Asus Vivobook M1403*
+  #  **Asus Vivobook M1403**
 - 🧠 **Prosesor:** AMD Ryzen 5 5600H  
 - 🧠 **RAM:** 8 GB  
 - 🎮 **GPU:** AMD Radeon Graphics
