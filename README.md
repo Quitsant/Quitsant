@@ -21,10 +21,10 @@
 
 ---
 
-## 🏫 Tentang Saya
+## 🏫 About Me
 
 - 📍 Asal: **Nganjuk, Indonesia**
-- 🏫 Umur: **15 Tahun**
+- 🍃 Umur: **15 Tahun**
 - 🎓 Bergabung: **2020**
 
 ---
