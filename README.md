@@ -47,13 +47,6 @@
 
 ---
 
-## 📬 Hubungi Saya
-
-- 📧 Email: *ramazhefa@gmail.com*
-- 🌐 Instagram : na.zef_
-
----
-
 <!-- Markdown link & img dfn's -->
 
 [header-url]: Header.png
