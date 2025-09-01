@@ -25,7 +25,7 @@
 
 - 📍 Asal: **Nganjuk, Indonesia**
 - 🍃 Umur: **15 Tahun**
-- 🎓 Bergabung: **2020**
+- 🎓 Bergabung: **2022**
 
 ---
 
@@ -33,7 +33,7 @@
 
 - ⚙️ Bahasa: **Python**, **Golang**
 - 🌐 Frontend: **HTML**, **CSS**, **JavaScript**
-- 🐧 OS: **Base System(Win11), Linux (Debian, Ubuntu, ParrotOS)**
+- 🐧 OS: **Dualboot (Windows 11 & Ubuntu)**
 - 🔐 Cybersecurity Tools: Metasploit, SSH, Wireshark, Netcat, dll
 
 ---
