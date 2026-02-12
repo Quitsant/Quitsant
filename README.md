@@ -23,7 +23,7 @@
 
 ## 🏫 About Me
 
-- 📍 Asal: **Nganjuk, Indonesia**
+- 📍 Asal: **Nganjuk, Jawa Timur Indonesia**
 - 🍃 Umur: **15 Tahun**
 - 🎓 Bergabung: **2022**
 
@@ -31,10 +31,10 @@
 
 ## 🚀 Skill dan Teknologi
 
-- ⚙️ Bahasa: **Python**, **Golang**
-- 🌐 Frontend: **HTML**, **CSS**, **JavaScript**
-- 🐧 OS: **Dualboot (Windows 11 & Ubuntu)**
-- 🔐 Cybersecurity Tools: Metasploit, SSH, Wireshark, Netcat, dll
+- ⚙️ Bahasa: **Python**
+- 🌐 Frontend: **HTML**, **CSS**, **JavaScript**, **React**
+- 🐧 OS: **Windows 11 Pro**
+- 🔐 Cybersecurity: Metasploit, SSH, Wireshark, Netcat, dll
 
 ---
 
