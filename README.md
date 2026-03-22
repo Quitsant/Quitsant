@@ -1,6 +1,6 @@
 [![header][header-url]][header-link]
 
-# QUITSANT ANAK BAIK
+# Quitsant
 [![Project Version][version-image]][version-url]
 [![Frontend][Frontend-image]][Frontend-url]
 [![Frontend2][Frontend-image2]][Frontend-url2]
@@ -14,7 +14,7 @@
 ---
 
 # 🖐️ Halo, Perkenalkan Saya
-## 🎮 **Luthfi Nazheefa Naafi Lil Ifta Ramadhan** 💻
+## 🎮 **Nazeff** 💻
 
 > Seorang pelajar yang suka mencari informasi teknologi, tentang **Web Development**, **Cybersecurity**, dan **Server Admin**.  
 > Sedang aktif belajar dan membangun portofolio dengan terus mengembangkan skill - skill untuk menjadi FullStack Dev
@@ -23,7 +23,6 @@
 
 ## 🏫 About Me
 
-- 📍 Asal: **Nganjuk, Jawa Timur Indonesia**
 - 🍃 Umur: **15 Tahun**
 - 🎓 Bergabung: **2022**
 
@@ -40,7 +39,6 @@
 
 ## 💻 Perangkat yang Digunakan
 
-  ### **Asus Vivobook M1403**
 - 🧠 **Prosesor:** AMD Ryzen 5 5600H  
 - 🧠 **RAM:** 24 GB  
 - 🎮 **GPU:** AMD Radeon Graphics
