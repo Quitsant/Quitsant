@@ -65,5 +65,5 @@
 [Miner-image]: https://img.shields.io/badge/Learn-Python-blue?style=for-the-badge
 [Miner-url]: https://img.shields.io/badge/Frontend-JavaScript-yellow?style=for-the-badge
 
-[Miner-image2]: https://img.shields.io/badge/Learn-Golang-blue?style=for-the-badge
+[Miner-image2]: https://img.shields.io/badge/Learn-Networking-blue?style=for-the-badge
 [Miner-url2]: https://img.shields.io/badge/Frontend-JavaScript-yellow?style=for-the-badge
